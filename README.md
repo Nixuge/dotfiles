@@ -1,10 +1,16 @@
-# i3
-Config by me  
-Not much to say, just throw the file in your .config/i3/  
+# i3, Kitty, Picom, Dunst
+Configs by me  
+Not much to say, just throw the file in your .config/<i3/kitty/picom/dunst>/  
 
 # Polybar
 ### Based from the Forest by Aditya Shakya (@adi1090x)  
 Install it by putting the files anywhere you want and then replace the path in the i3 config file
+
+# Kitty
+Same as i3
+
+# Picom
+Same as i3
 
 # Scripts
 ## checkPiMedia.py
